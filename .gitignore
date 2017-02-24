@@ -3,7 +3,6 @@
 .env.php
 .env
 /vendor
-/node_modules
 node_modules/
 .idea/
-.gitignore
+/.gitignore
